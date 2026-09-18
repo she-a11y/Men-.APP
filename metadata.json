@@ -1,0 +1,6 @@
+{
+  "name": "Menú setmanal",
+  "description": "Planificador de menús ràpids, control de calories i macros per àpat, plats favorits i propostes setmanals amb llista de la compra exacta per a Sheila i Marc basat en un sistema d'intercanvis nutricionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

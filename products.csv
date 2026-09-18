@@ -1,0 +1,49 @@
+nom,grup,supermercat,racio_g,unitat,format_compra,format_unitat,seccio,calories_per_100g,proteines_per_100g,carbs_per_100g,greixos_per_100g,preu_format
+Arròs integral Hacendado,Farinacis,Mercadona,20,g,1000,g,Rebost,350,7.5,74.0,2.5,1.35
+Pasta integral,Farinacis,Mercadona,20,g,500,g,Rebost,348,13.0,65.0,2.5,1.05
+Cuscús,Farinacis,Mercadona,20,g,500,g,Rebost,355,12.0,72.0,1.5,1.45
+Quinoa,Farinacis,Mercadona,20,g,500,g,Rebost,368,14.0,64.0,6.0,2.20
+Cigrons de pot Hacendado,Farinacis,Mercadona,80,g,400,g,Rebost,115,6.5,14.5,2.5,0.85
+Llenties de pot Hacendado,Farinacis,Mercadona,80,g,400,g,Rebost,95,7.5,12.5,0.8,0.85
+Mongetes blanques de pot,Farinacis,Mercadona,80,g,400,g,Rebost,85,6.0,12.0,0.5,0.85
+Edamame,Farinacis,Mercadona,80,g,500,g,Peixateria i Congelats,122,11.0,10.0,5.0,2.49
+Pa integral 100%,Farinacis,Mercadona,30,g,500,g,Forn i Pa,240,9.0,44.0,2.0,1.30
+Fajitas integrals,Farinacis,Mercadona,30,g,360,g,Rebost,295,9.0,48.0,6.5,1.40
+Patata,Farinacis,Mercadona,100,g,2000,g,Fruiteria i Verdura,77,2.0,17.0,0.1,2.75
+Moniato,Farinacis,Mercadona,100,g,1000,g,Fruiteria i Verdura,86,1.6,20.0,0.1,1.95
+Tonyina clara al natural Hacendado,Proteïnes,Mercadona,30,g,180,g,Rebost,101,24.0,0.0,0.6,2.40
+Ous,Proteïnes,Mercadona,1,unitat,12,unitat,Rebost,143,12.5,0.7,9.5,2.45
+Pit de pollastre,Proteïnes,Mercadona,30,g,500,g,Carnisseria i Embotits,110,23.0,0.0,1.5,3.65
+Tires de pollastre al forn Hacendado,Proteïnes,Mercadona,30,g,140,g,Carnisseria i Embotits,135,26.0,1.5,2.5,1.95
+Gall dindi embotit >85%,Proteïnes,Mercadona,40,g,200,g,Carnisseria i Embotits,92,18.0,1.5,1.2,2.25
+Pernil salat ibèric,Proteïnes,Mercadona,30,g,120,g,Carnisseria i Embotits,250,31.0,0.5,14.0,4.50
+Formatge fresc Burgos Hacendado,Proteïnes,Mercadona,40,g,250,g,Làctics i Formatges,96,10.0,3.5,4.5,1.60
+Formatge Feta,Proteïnes,Mercadona,40,g,200,g,Làctics i Formatges,264,14.0,1.0,21.0,2.25
+Lluç congelat,Proteïnes,Mercadona,30,g,400,g,Peixateria i Congelats,75,16.5,0.0,0.8,3.75
+Bacallà congelat,Proteïnes,Mercadona,30,g,400,g,Peixateria i Congelats,82,18.0,0.0,0.7,4.20
+Salmó fumat,Proteïnes,Mercadona,30,g,100,g,Peixateria i Congelats,180,20.0,0.5,11.0,3.45
+Musclos al natural llauna,Proteïnes,Mercadona,30,g,70,g,Rebost,86,14.5,3.0,1.8,1.65
+Llagostins cuits congelats,Proteïnes,Mercadona,30,g,400,g,Peixateria i Congelats,90,20.0,0.5,1.0,4.95
+Vedella magra,Proteïnes,Mercadona,30,g,400,g,Carnisseria i Embotits,125,21.5,0.0,4.0,4.80
+Llom de porc,Proteïnes,Mercadona,30,g,500,g,Carnisseria i Embotits,130,22.0,0.0,4.5,3.50
+Bossa Canonges,Verdures,Mercadona,150,g,150,g,Fruiteria i Verdura,21,2.0,2.5,0.4,1.15
+Bossa Ruca,Verdures,Mercadona,150,g,100,g,Fruiteria i Verdura,25,2.6,3.6,0.7,0.99
+Bossa Mesclum,Verdures,Mercadona,150,g,175,g,Fruiteria i Verdura,20,1.8,2.8,0.3,1.19
+Tomàquet amanida,Verdures,Mercadona,150,g,1000,g,Fruiteria i Verdura,18,0.9,3.5,0.2,2.10
+Tomàquet xerri,Verdures,Mercadona,150,g,500,g,Fruiteria i Verdura,22,1.0,4.2,0.2,1.75
+Cogombre,Verdures,Mercadona,150,g,500,g,Fruiteria i Verdura,15,0.7,3.0,0.1,1.10
+Pastanaga,Verdures,Mercadona,150,g,1000,g,Fruiteria i Verdura,41,0.9,9.6,0.2,0.95
+Pebrot vermell/verd,Verdures,Mercadona,150,g,500,g,Fruiteria i Verdura,26,1.0,5.0,0.3,1.55
+Pebrot del piquillo,Verdures,Mercadona,150,g,250,g,Rebost,32,1.2,5.5,0.4,1.35
+Ceba,Verdures,Mercadona,150,g,1000,g,Fruiteria i Verdura,40,1.1,9.0,0.1,1.45
+Carbassó,Verdures,Mercadona,150,g,1000,g,Fruiteria i Verdura,17,1.2,3.1,0.3,1.60
+Espàrrecs verds,Verdures,Mercadona,150,g,250,g,Fruiteria i Verdura,20,2.2,2.0,0.2,2.35
+Espinacs frescos,Verdures,Mercadona,150,g,300,g,Fruiteria i Verdura,23,2.9,3.6,0.4,1.45
+Gaspatxo Hacendado,Verdures,Mercadona,200,ml,1000,ml,Fruiteria i Verdura,35,0.8,3.2,2.0,1.60
+Oli d'oliva verge extra,Greixos,Mercadona,10,g,1000,ml,Olis i Fruits Secs,884,0.0,0.0,100.0,8.95
+Guacamole Hacendado 95%,Greixos,Mercadona,50,g,200,g,Fruiteria i Verdura,165,1.8,4.5,15.0,1.75
+Alvocat,Greixos,Mercadona,50,g,500,g,Fruiteria i Verdura,160,2.0,8.5,14.5,2.40
+Nous naturals,Greixos,Mercadona,15,g,200,g,Olis i Fruits Secs,654,15.2,13.7,65.2,2.60
+Ametlles naturals,Greixos,Mercadona,15,g,200,g,Olis i Fruits Secs,579,21.2,21.6,49.9,2.70
+Olives,Greixos,Mercadona,30,g,150,g,Rebost,145,1.0,3.5,14.5,1.20
+Formatge d'untar lleuger Hacendado,Greixos,Mercadona,30,g,300,g,Làctics i Formatges,160,9.0,5.5,11.0,1.35
